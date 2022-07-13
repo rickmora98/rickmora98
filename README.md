@@ -1,4 +1,4 @@
-<b>RICARDO G. MORA, JR.</b><br> 
+### RICARDO G. MORA, JR. 
 Atlanta, GA 30126
 
 Email: rick@mora.net<br>
